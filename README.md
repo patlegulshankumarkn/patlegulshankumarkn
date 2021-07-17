@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patlegulshankumarkn
 - 👀 I’m interested in Software and Web Developer
-- 🌱 I’m currently learning Python Django Framework and Java spring framework.
+- 🌱 I’m currently learning Python Django Framework and Java Spring Framework.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
